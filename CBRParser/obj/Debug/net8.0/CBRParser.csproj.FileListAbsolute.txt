@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\CBRParser\CBRParser\bin\Debug\net8.0\CBRParser.exe
+C:\Users\Admin\source\repos\CBRParser\CBRParser\bin\Debug\net8.0\CBRParser.deps.json
+C:\Users\Admin\source\repos\CBRParser\CBRParser\bin\Debug\net8.0\CBRParser.runtimeconfig.json
+C:\Users\Admin\source\repos\CBRParser\CBRParser\bin\Debug\net8.0\CBRParser.dll
+C:\Users\Admin\source\repos\CBRParser\CBRParser\bin\Debug\net8.0\CBRParser.pdb
+C:\Users\Admin\source\repos\CBRParser\CBRParser\obj\Debug\net8.0\CBRParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CBRParser\CBRParser\obj\Debug\net8.0\CBRParser.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CBRParser\CBRParser\obj\Debug\net8.0\CBRParser.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CBRParser\CBRParser\obj\Debug\net8.0\CBRParser.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CBRParser\CBRParser\obj\Debug\net8.0\CBRParser.dll
+C:\Users\Admin\source\repos\CBRParser\CBRParser\obj\Debug\net8.0\refint\CBRParser.dll
+C:\Users\Admin\source\repos\CBRParser\CBRParser\obj\Debug\net8.0\CBRParser.pdb
+C:\Users\Admin\source\repos\CBRParser\CBRParser\obj\Debug\net8.0\CBRParser.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CBRParser\CBRParser\obj\Debug\net8.0\ref\CBRParser.dll
